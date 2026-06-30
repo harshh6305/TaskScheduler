@@ -1,0 +1,7 @@
+target/
+.idea/
+*.iml
+maven.zip
+apache-maven-*/
+dependency-reduced-pom.xml
+tasks.json
